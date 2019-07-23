@@ -1,0 +1,7 @@
+
+public class NormalUser extends User{
+	public NormalUser (int id, String nume, String prenume) {
+		this.id = id;
+		
+	}
+}

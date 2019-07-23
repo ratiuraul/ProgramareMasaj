@@ -1,0 +1,7 @@
+
+public class System {
+ // implementing all services 
+	
+// vizualizare din baza de date 
+	public void massageDisponibility(int day,int hour) {}
+}

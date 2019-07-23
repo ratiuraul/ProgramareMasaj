@@ -1,0 +1,7 @@
+
+public class System {
+ // implementing all services 
+	
+// vizualizare din baza de date daca este disponibil sau nu masajul
+	public boolean massageDisponibility(int day,int hour) {return true;}
+}

@@ -1,0 +1,5 @@
+
+public class System {
+ // implementing all services 
+	public void massageDisponibility(User user ,int day,int hour) {}
+}
